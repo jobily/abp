@@ -1,0 +1,46 @@
+﻿[
+  {
+    "path": "templates\\app\\aspnet-core\\src\\MyCompanyName.MyProjectName.EntityFrameworkCore.DbMigrations",
+    "recreate": true,
+    "migrationName": "Initial"
+  },
+  {
+    "path": "templates\\module\\aspnet-core\\host\\MyCompanyName.MyProjectName.IdentityServer",
+    "recreate": true,
+    "migrationName": "Initial"
+  },
+  {
+    "path": "templates\\module\\aspnet-core\\host\\MyCompanyName.MyProjectName.Web.Unified",
+    "recreate": true,
+    "migrationName": "Initial"
+  },
+  {
+    "path": "modules\\docs\\app\\VoloDocs.EntityFrameworkCore",
+    "recreate": true,
+    "migrationName": "Initial"
+  },
+  {
+    "path": "modules\\blob-storing-database\\host\\BlobStoring.Database.Host.ConsoleApp\\src\\BlobStoring.Database.Host.ConsoleApp.ConsoleApp",
+    "recreate": true,
+    "migrationName": "Initial"
+  },
+  {
+    "path": "modules\\background-jobs\\app\\Volo.Abp.BackgroundJobs.DemoApp",
+    "recreate": true,
+    "migrationName": "Initial"
+  },
+  {
+    "path": "modules\\blogging\\app\\Volo.BloggingTestApp.EntityFrameworkCore",
+    "recreate": false
+  },
+  {
+    "path": "modules\\cms-kit\\host\\Volo.CmsKit.IdentityServer",
+    "recreate": true,
+    "migrationName": "Initial"
+  },
+  {
+    "path": "modules\\cms-kit\\host\\Volo.CmsKit.Web.Unified",
+    "recreate": true,
+    "migrationName": "Initial"
+  }
+]
